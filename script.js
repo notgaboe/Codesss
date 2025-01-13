@@ -1,4 +1,4 @@
-// script.js
+// script.js (No changes needed from the previous version)
 const photos = document.querySelectorAll('.photo');
 
 photos.forEach(photo => {
