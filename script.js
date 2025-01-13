@@ -1,4 +1,4 @@
-// script.js (No changes needed from the previous version)
+// script.js - Adds click event to flip the photos
 const photos = document.querySelectorAll('.photo');
 
 photos.forEach(photo => {
