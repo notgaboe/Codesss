@@ -1,1 +1,35 @@
-# Codesss
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Photobooth Love</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Happy (Occasion, e.g., Anniversary), My Love!</h1>
+        <div class="photobooth">
+            <div class="photo-container">
+                <div class="photo" id="photo1">
+                    <img src="image1.jpg" alt="Photo 1 Front" class="front">
+                    <div class="back">You're my sunshine!</div>
+                </div>
+            </div>
+            <div class="photo-container">
+                <div class="photo" id="photo2">
+                    <img src="image2.jpg" alt="Photo 2 Front" class="front">
+                    <div class="back">I love your smile!</div>
+                </div>
+            </div>
+            <div class="photo-container">
+                <div class="photo" id="photo3">
+                    <img src="image3.jpg" alt="Photo 3 Front" class="front">
+                    <div class="back">You make me so happy!</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
